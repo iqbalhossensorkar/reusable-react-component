@@ -1,0 +1,14 @@
+[
+    {
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+        "description": "This is the first item description."
+    },
+    {
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/04/2/22/00/tree-736885_1280.jpg",
+        "description": "Here is the second item description."
+    },
+    {
+        "imageUrl": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+        "description": "The third item has this description."
+    }
+]
